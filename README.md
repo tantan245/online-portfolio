@@ -19,7 +19,7 @@ Video Editor & Photographer | Transforming raw footage into compelling stories. 
 
 
 ### Home Page
-![Home Page](tantan(1).png
+![Home Page](tantan(1).png)
 
 
 ---
