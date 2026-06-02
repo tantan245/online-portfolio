@@ -19,15 +19,20 @@ Video Editor & Photographer | Transforming raw footage into compelling stories. 
 
 
 ### Home Page
-![Home Page](tantan(1).png)
+![Home Page](tantan(1).png) 
+
+### Challenges And Process
+![Challenges And Process](idk(1).png)
+### Challenges And Process
+![Challenges And Process](aisss(1).png)
+
 
 
 ---
 
 ## Live Website
-👉 https://raygelonline-portfolio.vercel.app/#projects
+https://vercel.com/tantan-portforlio-s-projects/online-portfolio
 
 ---
 
-## Note
-This portfolio is continuously updated as I add new projects and improve my skills.
+
